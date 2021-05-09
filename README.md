@@ -1,2 +1,2 @@
 # Javascript-Projects
-vanilla javascript projects ⚡️
+Vanilla javascript projects ⚡️
